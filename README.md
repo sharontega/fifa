@@ -2,6 +2,7 @@
 This dataset was cleaned using excel.
 
 The following steps were taken to clean the data:
+
 1.unwanted columns were deleted
 
 2. New name was extracted from players url
